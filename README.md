@@ -1,4 +1,4 @@
-## Hi I'm Tomas 👋
+## Hi I'm Tomás 👋
 
 <!--
 **tomasfontaa/tomasfontaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
