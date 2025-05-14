@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I’m Tomás Fonta, a passionate data professional
 
 - ✉️ Email: tomasfonta31@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/tomásfontagarcía](https://www.linkedin.com/in/tomásfontagarcía/)
+- 📞 Phone: 693256173
 
 ---
 
