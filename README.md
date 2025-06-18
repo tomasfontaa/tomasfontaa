@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m Tomás Fonta, a passionate data professional
 - 📊 **Bachelor's Degree in Business Statistics**  
   *Universidad Miguel Hernández de Elche (2020–2024)*
 
-- 🤖 **Master's in Artificial Intelligence and Big Data** *(In progress)*  
+- 🤖 **Master's in Artificial Intelligence and Big Data** *(2024-2025)*  
   *Universidad CEU San Pablo*
 
 ---
