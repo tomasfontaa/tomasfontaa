@@ -14,7 +14,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
 - ✉️ Email: tomasfonta31@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/tomásfonta](https://www.linkedin.com/in/tomasfonta/)
