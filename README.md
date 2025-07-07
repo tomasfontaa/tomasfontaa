@@ -23,7 +23,7 @@
 
 ## 🚀 Lo que encontrarás en mis repositorios
 
-- 📊 Proyectos sobre machine learning, análisis de datos y modelos LLM
+- 📊 Proyectos sobre machine learning, análisis de datos y modelos RAG
 - 🧠 Experimentos de deep learning, incluyendo computer vision y PLN
 - 📁 Código limpio, bien documentado y con evaluaciones paso a paso
 
