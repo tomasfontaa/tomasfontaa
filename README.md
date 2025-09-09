@@ -4,14 +4,14 @@
 
 ## 🛠 Habilidades Técnicas
 
-- Lenguajes de programación: Python, R
-- Bases de datos: MySQL, MongoDB, SQL
-- Procesamiento del Lenguaje Natural (PLN): NLTK, spaCy, Hugging Face Transformers, TextBlob, LangChain
-- Computer Vision: OpenCV, YOLOv8 (Ultralytics), PaddleOCR
-- Visualización de datos: Power BI, Tableau, Matplotlib, Seaborn, Excel
-- Machine Learning: Scikit-learn, XGBoost, LightGBM, CatBoost
-- Deep Learning: PyTorch, Keras, TensorFlow
-- Cloud y Herramientas: AWS (En formación), HuggingFace, Streamlit, FastAPI
+-	Lenguajes: Python, R.
+-	Bases de Datos: SQL, MySQL, Qdrant, MongoDB.
+-	NLP: Hugging FaceTransformers, NLTK, spaCy, LangChain, LlamaIndex.
+-	Computer Vision: OpenCV, YOLOv8, PaddleOCR.
+-	Visualización: Power BI, Excel, Tableau, Seaborn, Matplotlib.
+-	Cloud y Herramientas: AWS (En formación), HuggingFace, Streamlit, FastAPI
+-	Machine Learning & DL:  XGBoost, LightGBM, CatBoost, Scikit-learn, TensorFlow, Keras, Pytorch
+
 
 ---
 
